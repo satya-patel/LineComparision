@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SnakeLadder {
+public class SnakeLadder{
 	
 	public static void main(String[] args) {
 		
